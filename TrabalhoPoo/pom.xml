@@ -10,5 +10,6 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <exec.mainClass>com.mycompany.trabalhopoo.TrabalhoPoo</exec.mainClass>
+        //Trocar esse "trabalhopoo.TrabalhoPoo" por "Main.main"
     </properties>
 </project>
